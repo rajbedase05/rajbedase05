@@ -115,5 +115,9 @@ Learning and practicing:
 ### 💡 My Goal
 
 To build practical skills in Cloud Computing and DevOps, create real-world projects, and grow as a Cloud and DevOps professional.
+---
 
+### 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajbedase05&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
 **Thanks for visiting my profile!** ⭐
