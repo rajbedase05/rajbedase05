@@ -1,27 +1,29 @@
-# Hi, I'm Rajwardhan Bedase! 👋
+# Hi, I'm Rajwardhan Bedase 👋
 
 ### Cloud & DevOps Enthusiast | AWS | Linux | Python | Automation
 
-Welcome to my GitHub profile! I'm an IT Graduate from Maharashtra, India, passionate about Cloud Computing, AWS Infrastructure, Linux Administration, and DevOps technologies.
+Welcome to my GitHub profile! 🚀
 
-I enjoy building practical cloud projects, automating infrastructure tasks, and learning modern DevOps tools.
+I'm an IT Graduate from Maharashtra, India, passionate about Cloud Computing, AWS, Linux Administration, DevOps, and Automation.
+
+I enjoy learning new technologies and building practical projects to improve my technical skills.
 
 ---
 
-## 🚀 About Me
+### 🛠️ Technologies & Tools
 
-- 🎓 B.Sc. Information Technology Graduate (2025)
-- ☁️ Learning and building with AWS Cloud
-- 🐧 Interested in Linux Administration and Networking
-- ⚙️ Exploring DevOps, CI/CD, and Cloud Automation
-- 🔍 Interested in CloudOps and AIOps
-- 📍 Pune, Maharashtra, India
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠️ Technical Skills
+**Cloud & AWS:** EC2, S3, IAM, VPC, Lambda, CloudWatch, SNS
 
-**Cloud:** AWS, EC2, S3, IAM, VPC, Lambda, CloudWatch
-
-**DevOps:** Git, GitHub, Docker, Terraform, Jenkins
+**DevOps & Automation:** Git, GitHub, Docker, Terraform, Jenkins
 
 **Monitoring:** Prometheus, Grafana, Node Exporter
 
@@ -29,34 +31,73 @@ I enjoy building practical cloud projects, automating infrastructure tasks, and 
 
 **Operating Systems:** Linux, Windows
 
-## 💻 Featured Projects
+---
 
-### 1. AWS CloudOps Monitoring & Automation
-- Automated cloud monitoring using CloudWatch.
-- Integrated CloudWatch Alarms, AWS Lambda, and SNS.
-- Used Python, Boto3, and Terraform.
+### ☁️ Featured Project
 
-🔗 [View Project](https://github.com/rajbedase05/aws-cloudops-monitoring-automation)
+#### AWS CloudOps Monitoring & Automation
 
-### 2. AI-Powered AWS IAM Security Management
-- Exploring AWS IAM security management and automation.
-- Project currently in progress.
+- Developed an AWS monitoring and automation project.
+- Integrated CloudWatch alarms with AWS Lambda and SNS notifications.
+- Used Python and Boto3 for AWS automation.
+- Used Terraform for infrastructure management.
+- Added automated tests for project validation.
 
-🔗 [Explore My GitHub](https://github.com/rajbedase05)
-
-## 📜 Training
-
-Cloud & DevOps Training – Fortune Cloud Technologies, Pune.
-
-## 🌐 Connect With Me
-
-- Portfolio: https://rajwardhan05.netlify.app
-- LinkedIn: https://www.linkedin.com/in/rajwardhan-bedase-9204aa28a/
-- GitHub: https://github.com/rajbedase05
-- Email: rajwardhanbedase@gmail.com
+🔗 **Project Repository:**  
+https://github.com/rajbedase05/aws-cloudops-monitoring-automation
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+### 🚀 Currently Working On
 
+**AI-Powered AWS IAM Security Management**
 
+- Exploring AWS IAM security and access management.
+- Learning Python-based AWS automation.
+- Exploring AI-assisted cloud security concepts.
+
+*Project currently in progress.*
+
+---
+
+### 📚 Training & Learning
+
+Currently undergoing Cloud & DevOps training at **Fortune Cloud Technologies, Pune**.
+
+Learning and practicing:
+
+- AWS Cloud Services
+- Linux Administration
+- Networking Fundamentals
+- DevOps Tools
+- Cloud Monitoring and Automation
+
+---
+
+### 🎯 Career Interests
+
+- Cloud Support Engineer
+- AWS Cloud Engineer
+- Junior DevOps Engineer
+- Linux System Administrator
+- IT Infrastructure Engineer
+
+---
+
+### 🤝 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge)](https://rajwardhan05.netlify.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajwardhan-bedase-9204aa28a/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rajbedase05)
+
+📧 **Email:** rajwardhanbedase@gmail.com
+
+---
+
+### 💡 My Goal
+
+To build practical skills in Cloud Computing and DevOps, create real-world projects, and grow as a Cloud and DevOps professional.
+
+**Thanks for visiting my profile!** ⭐
