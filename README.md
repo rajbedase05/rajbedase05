@@ -1,5 +1,7 @@
 # Hi, I'm Rajwardhan Bedase 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;AWS+%7C+Linux+%7C+Python;Learning+and+Building+Every+Day" alt="Typing SVG" />
+</p>
 ### Cloud & DevOps Enthusiast | AWS | Linux | Python | Automation
 
 Welcome to my GitHub profile! 🚀
