@@ -95,7 +95,17 @@ Learning and practicing:
 📧 **Email:** rajwardhanbedase@gmail.com
 
 ---
+---
 
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajbedase05&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajbedase05&layout=compact&theme=tokyonight)
+
+---
+
+⭐ From [Rajwardhan Bedase](https://github.com/rajbedase05)
 ### 💡 My Goal
 
 To build practical skills in Cloud Computing and DevOps, create real-world projects, and grow as a Cloud and DevOps professional.
